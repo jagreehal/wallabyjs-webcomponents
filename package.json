@@ -1,0 +1,24 @@
+{
+  "name": "wallabyjs-webcomponents",
+  "version": "1.0.0",
+  "description": "How to use wallabyjs to test web web components",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jagreehal/wallabyjs-webcomponents.git"
+  },
+  "author": "Jag Reehal",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "electron-prebuilt": "^1.4.13",
+    "prettier": "^1.2.2"
+  },
+  "dependencies": {
+    "document-register-element": "^1.4.1",
+    "webcomponents.js": "^0.7.24"
+  }
+}
